@@ -1,0 +1,6 @@
+STEP 1 : install formik by using this command 
+         npm install formik --save
+
+STEP 2 : inside src folder make one component folder
+STEP 3 : inside component folder make 2 sub folders one is signup and the other one is Signin folder
+STEP 4 : in respective folders make singin.jsx, signin.css and signup.jsx, signup.css
